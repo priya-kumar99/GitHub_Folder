@@ -1,6 +1,6 @@
 # Week 1 Excel
 
-This is includes a summary of the porjects taken in Week 1.
+This is includes a summary of the porjects taken in Week 1 in Excel. Most of the projects involved cleaning data and producing visualisations. 
 
 ## Retail Sales Data Sets
 
@@ -14,5 +14,34 @@ sale transaction.
 ## Bike Sales DataSet
 
 This mini project involved a dataset of bike sales with information regarding geneder, age and location of the customer. I was able to visually see the distruction and diversity of cutomers through this bar chart.
+
+<p align="center">
+<img src="https://github.com/priya-kumar99/GitHub_Folder/blob/main/Screenshot%202025-11-05%20at%2015.30.55.png" alt="Screenshot" width="400" height="250">
+</p>
+
+# Week 2 Tableau 
+
+# Week 2 Power BI
+
+# Week 3 SQL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
