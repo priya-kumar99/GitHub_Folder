@@ -19,11 +19,15 @@ This mini project involved a dataset of bike sales with information regarding ge
 <img src="https://github.com/priya-kumar99/GitHub_Folder/blob/main/Screenshot%202025-11-05%20at%2015.30.55.png" alt="Screenshot" width="400" height="250">
 </p>
 
-# Week 2 Tableau 
-
-# Week 2 Power BI
+# Week 2 Tableau and Power BI
 
 # Week 3 SQL
+
+# Week 4 Python
+
+This week focused on learning how to read and process CSV data in Python.
+I practiced selecting and extracting data that mattered most to my analysis.
+Additionally, I learned how to use for loops and if statements, which helped me understand how to make my code more dynamic and efficient.
 
 
 
